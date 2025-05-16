@@ -4,5 +4,33 @@
   "artist": "Samo Suke",
   "author": "Samo Suke",
   "cover": "https://files.catbox.moe/v65w4i.jpg",
-  "chapters": {}
+  "chapters": {
+    "16": {
+      "last_updated": "1747399155",
+      "groups": {
+        "forty-four minute scans": [
+          "https://files.catbox.moe/blgqlx.png",
+          "https://files.catbox.moe/r08lfk.png",
+          "https://files.catbox.moe/7ll6zc.png",
+          "https://files.catbox.moe/v71ph4.png",
+          "https://files.catbox.moe/t6e5ye.png",
+          "https://files.catbox.moe/au6j9e.png",
+          "https://files.catbox.moe/lct8pe.png",
+          "https://files.catbox.moe/cfos2x.png",
+          "https://files.catbox.moe/0xw4rc.png",
+          "https://files.catbox.moe/c1ry5e.png",
+          "https://files.catbox.moe/0kzzoc.png",
+          "https://files.catbox.moe/fskmw7.png",
+          "https://files.catbox.moe/6csvru.png",
+          "https://files.catbox.moe/i62drb.png",
+          "https://files.catbox.moe/jqmkef.png",
+          "https://files.catbox.moe/zoxae4.png",
+          "https://files.catbox.moe/pgo9ip.png",
+          "https://files.catbox.moe/mkatqm.png",
+          "https://files.catbox.moe/aeafvt.png",
+          "https://files.catbox.moe/l2iiwp.png"
+        ]
+      }
+    }
+  }
 }
