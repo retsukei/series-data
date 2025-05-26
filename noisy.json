@@ -4,5 +4,37 @@
   "artist": "Aldehyde",
   "author": "Shunpei Morita",
   "cover": "https://meo.comick.pictures/6bOMZw.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "last_updated": "1748291008",
+      "groups": {
+        "forty-four minute scans, Keiretsu": [
+          "https://files.catbox.moe/0nd646.png",
+          "https://files.catbox.moe/zn0qp5.png",
+          "https://files.catbox.moe/tbcfdw.png",
+          "https://files.catbox.moe/aka43h.png",
+          "https://files.catbox.moe/6pwoc9.png",
+          "https://files.catbox.moe/mrsrau.png",
+          "https://files.catbox.moe/mrvk50.png",
+          "https://files.catbox.moe/lwg87z.png",
+          "https://files.catbox.moe/xr13l0.png",
+          "https://files.catbox.moe/nbhao4.png",
+          "https://files.catbox.moe/b0jeyf.png",
+          "https://files.catbox.moe/6lpqr1.png",
+          "https://files.catbox.moe/ix17g6.png",
+          "https://files.catbox.moe/9lrdli.png",
+          "https://files.catbox.moe/kfjgmk.png",
+          "https://files.catbox.moe/n3mttc.png",
+          "https://files.catbox.moe/8qeevh.png",
+          "https://files.catbox.moe/hud3wr.png",
+          "https://files.catbox.moe/lbgj0q.png",
+          "https://files.catbox.moe/grpwbf.png",
+          "https://files.catbox.moe/60dz1b.png",
+          "https://files.catbox.moe/vama75.png",
+          "https://files.catbox.moe/y7fgk7.png"
+        ]
+      },
+      "volume": "1"
+    }
+  }
 }
